@@ -1,12 +1,12 @@
 # Deploy-Linux
 
   * Project 7 under the Full Stack Web Developer Nanodegree at Udacity
-  * See project live at: [link](ec2-54-84-211-118.compute-1.amazonaws.com)
+  * See project live at: [link][ec2-54-84-211-118.compute-1.amazonaws.com]
 
 #### Notes for reviewer:
   * Public IP: 54.84.211.118
   * SSH PORT: 2200
-  * Full project URL: [link](ec2-54-84-211-118.compute-10.amazonaws.com)
+  * Full project URL: [link][ec2-54-84-211-118.compute-10.amazonaws.com]
   
 ### Tasks given and method for completion:
 
